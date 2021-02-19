@@ -1,0 +1,7 @@
+Правила добавления очков для SP1 и D1Л:
+Победа: + 3 очка 
+Ничья: + 1 очко каждой из команд 
+Если количество очков в результате совпадает:
+If any clubs nish with the same number of points, their position in the Premier League table
+is determined by goal dierence, then the number of goals scored. If the teams still cannot be
+separated, they will be awarded the same position in the table. 
